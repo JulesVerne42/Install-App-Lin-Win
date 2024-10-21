@@ -2,6 +2,8 @@
 
 > Faite vous un script pour automatiser l'installation lors de fresh install.
 
+---
+
 ## Pour une machine Linux Mint :
 *Pour d'autres distro à vérifier, peut-être besoin d'installer flatpak (voir site flathub)*
 
