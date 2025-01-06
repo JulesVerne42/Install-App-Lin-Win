@@ -1,10 +1,10 @@
-# Dans ce guide je vous propose de partager deux solutions pour installer des applications automatiquement sur Linux et Windows.
+## Dans ce guide je vous propose de partager deux solutions pour installer des applications automatiquement sur Linux et Windows.
 
-> Faite vous un script pour automatiser l'installation lors de fresh install.
+> :point_up: Faite vous un script pour automatiser l'installation lors de fresh install.
 
 ---
 
-## Pour une machine Linux Mint :
+### :one: Pour une machine Linux Mint :
 *Pour d'autres distro à vérifier, peut-être besoin d'installer flatpak (voir site flathub)*
 
 - Aller sur le site [https://flathub.org/](https://flathub.org/)  
@@ -15,7 +15,7 @@
 - Nécessite de valider avec `y` par moment, mais l'on peut automatiser avec `-y`
 
 
-## Pour une machine Windows :
+### :two: Pour une machine Windows :
 *A partir de Win10*
 
 - Installer `winget`
