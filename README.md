@@ -5,7 +5,7 @@
 ---
 
 ### :one: Pour une machine Linux Mint :
-*Pour d'autres distro à vérifier, peut-être besoin d'installer flatpak (voir site flathub)*
+:arrow_right: *Pour d'autres distro à vérifier, peut-être besoin d'installer flatpak (voir site flathub)*
 
 - Aller sur le site [https://flathub.org/](https://flathub.org/)  
 - Rechercher un logiciel  
@@ -16,7 +16,7 @@
 
 
 ### :two: Pour une machine Windows :
-*A partir de Win10*
+:arrow_right: *A partir de Win10*
 
 - Installer `winget`
 - Aller sur le site [https://winstall.app/](https://winstall.app/)
